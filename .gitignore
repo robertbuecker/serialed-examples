@@ -1,0 +1,11 @@
+*
+!*.ipynb
+!*.yaml
+!.gitignore
+!*.md
+!*.png
+!*.pdf
+!*.tif
+!requirements.txt
+*-checkpoint.*
+*-Copy*.*
