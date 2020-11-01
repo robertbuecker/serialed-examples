@@ -1,4 +1,4 @@
-# serialed-analysis
+# Serial Electron Diffraction Data Processing
 Notebooks and scripts for serial electron diffraction analysis using diffractem (https://github.org/robertbuecker/diffractem) and CrystFEL (https://www.desy.de/~twhite/crystfel/ or https://stash.desy.de/projects/CRYS/repos/crystfel/). Both are mandatory dependenices to make any sense out of this.
 
 Get the required raw data at https://empiar.org via the accession code `EMPIAR-10542`
