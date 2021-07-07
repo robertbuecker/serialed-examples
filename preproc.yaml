@@ -14,7 +14,7 @@ cam_length: 1.58
 y_scale: 1
 ellipse_ratio: 1.023
 ellipse_angle: 83
-pixel_size: 55e-06
+pixel_size: 5.5e-05
 wavelength: 0.0251
 com_threshold: 0.7
 com_xrng: 516
