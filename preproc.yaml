@@ -65,7 +65,6 @@ indexing_params:
   pinkIndexer-reflection-radius: 0.001
   pinkIndexer-max-resolution-for-indexing: 2
   pinkIndexer-no-check-indexed: false
-  temp-dir: /scratch/diffractem
 integration_params:
   indexing: file
   integration: rings-nograd-nocen
