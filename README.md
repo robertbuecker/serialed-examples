@@ -1,5 +1,5 @@
 # Serial Electron Diffraction Data Processing
-Notebooks and scripts for serial electron diffraction analysis using diffractem (https://github.com/robertbuecker/diffractem) and CrystFEL (https://www.desy.de/~twhite/crystfel/). For the latter, you will need a recent version from the master branch at https://gitlab.desy.de/thomas.white/crystfel -- the 0.9.1. release is too old!
+Notebooks and scripts for serial electron diffraction analysis using diffractem (https://github.com/robertbuecker/diffractem) and CrystFEL (https://www.desy.de/~twhite/crystfel/), version 1.0 or higher.
 
 Get the required raw data from MPDL EDMOND at https://dx.doi.org/10.17617/3.53.
 
